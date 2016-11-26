@@ -8,3 +8,6 @@ or a movement the user feels happy and immediately wants to support the project!
 ## What about language support?
 Don't worry we've got your back. We are currently trying to translate our label in all the languages.
 You can support us by translating the label in your language!
+
+## How can I use it?
+You have the right to change the heart's color and the letters's font. Please use the MWLI code to refer to countries and not cities, regions, continents etc.
